@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="${project.name}" basedir="." default="deploy" >
-	<!-- projeto ant-build-xml -->
+<project name="${project.name}" basedir="." default="bkp" >
+
 </project>
