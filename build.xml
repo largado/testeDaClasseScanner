@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="testeDaClasseScanner" basedir="." default="bkp" >
 
+  <target name="bkp">
+    <zip destfile="bakup_do_projeto.zip">
+         <fileset dir="src" />
+    </zip>
+  </target>
 </project>
